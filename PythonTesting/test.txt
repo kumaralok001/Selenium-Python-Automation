@@ -1,0 +1,6 @@
+abc
+boy
+cat
+dog
+elephant
+f
